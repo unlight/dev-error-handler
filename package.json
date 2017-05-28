@@ -14,6 +14,9 @@
     "lib:all": "npm run lib:main && npm run lib:es2015 && npm run lib:module",
     "tsc": "tsc"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "devDependencies": {
     "typescript": "^2.3.3"
   },
