@@ -1,6 +1,6 @@
 {
   "name": "@epam/dev-err-handler",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Angular's `ErrorHandler` implementation for development environment",
   "license": "MIT",
   "main": "lib/main",
@@ -22,5 +22,20 @@
   },
   "dependencies": {
     "stacktrace-js": "^2.0.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unlight/dev-error-handler.git"
+  },
+  "keywords": [
+    "ngx-error",
+    "dev-error",
+    "stacktrace",
+    "angular-error",
+    "error-handler"
+  ],
+  "bugs": {
+    "url": "https://github.com/unlight/dev-error-handler/issues"
+  },
+  "homepage": "https://github.com/unlight/dev-error-handler#readme"
 }
