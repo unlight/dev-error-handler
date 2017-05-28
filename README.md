@@ -1,7 +1,7 @@
 dev-error-handler
 ---
 Expose global angular error handler to screen.
-![](screenshots/fatal-error-1.png)
+![](https://raw.githubusercontent.com/unlight/dev-error-handler/master/screenshots/fatal-error-1.png)
 
 USAGE
 ---
