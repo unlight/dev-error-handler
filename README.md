@@ -15,3 +15,11 @@ import { DevErrorHandler } from '@epam/dev-error-handler';
 ```ts
 { provide: ErrorHandler, useClass: DevErrorHandler }
 ```
+
+CHANGELOG
+---
+* 1.1.0: Removed sourcemaps
+* 1.0.X: First release
+
+TODO
+---
