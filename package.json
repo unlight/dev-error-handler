@@ -13,7 +13,6 @@
     "lib:module": "npm run tsc -- --module ES2015 --target ES5 --outDir lib/module",
     "lib:all": "npm run lib:main && npm run lib:es2015 && npm run lib:module",
     "prepublish": "rm -rfv lib && npm run lib:all",
-    "publish": "npm publish",
     "tsc": "tsc"
   },
   "publishConfig": {
