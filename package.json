@@ -1,6 +1,6 @@
 {
-  "name": "@epam/dev-err-handler",
-  "version": "1.0.2",
+  "name": "@epam/dev-error-handler",
+  "version": "1.0.3",
   "description": "Angular's `ErrorHandler` implementation for development environment",
   "license": "MIT",
   "main": "lib/main",
